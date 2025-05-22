@@ -1,6 +1,6 @@
 # IMAGE-TRANSFORMATIONS
-## Name - Jai Surya R
-## Register Number - 212223230084
+### Name - Jai Surya R
+### Register Number - 212223230084
 
 ## Aim
 To perform image transformation such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping using OpenCV and Python.
